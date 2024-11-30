@@ -5,12 +5,8 @@ require_once('../assets/constants/config.php');
 require_once('../assets/constants/fetch-my-info.php');
 
 $sql = "SELECT * FROM manage_website where status='0'";
-
-
 $statement = $conn->prepare($sql);
 $statement->execute();
-
-
 $row = $statement->fetch(PDO::FETCH_ASSOC);
 extract($row); ?>
 
@@ -23,8 +19,6 @@ extract($row); ?>
     text-align: center;
   }
 </style>
-
-
 <div class="footer">
   Copyright © 2024 Project Development by <a href="https://github.com/Shafat21">Shafat</a> and <a href="https://github.com/CodeWizardOve">Ove</a>
 </div>
