@@ -170,11 +170,11 @@ Licensed under the BSD-2-Clause License.
       dateFormat: null,
       axes: true,
       grid: true,
-      gridLineColor: '#e6e6f2',
-      gridStrokeWidth: .8,
-      gridTextColor: '#71748d',
-      gridTextSize: 13,
-      gridTextFamily: 'Circular Std Book',
+      gridLineColor: '#aaa',
+      gridStrokeWidth: 0.5,
+      gridTextColor: '#888',
+      gridTextSize: 12,
+      gridTextFamily: 'sans-serif',
       gridTextWeight: 'normal',
       hideHover: false,
       yLabelFormat: null,
@@ -850,7 +850,7 @@ Licensed under the BSD-2-Clause License.
       hideHover: false,
       trendLine: false,
       trendLineWidth: 2,
-      trendLineColors: ['#5969ff', '#a2b3bf', '#64b764']
+      trendLineColors: ['#689bc3', '#a2b3bf', '#64b764']
     };
 
     Line.prototype.calc = function() {
@@ -2078,7 +2078,7 @@ Licensed under the BSD-2-Clause License.
       return this.raphael.path(path).attr({
         fill: fillColor,
         stroke: strokeColor,
-        'stroke-width': 2
+        'stroke-width': 3
       }).hover(hoverFunction).click(clickFunction);
     };
 

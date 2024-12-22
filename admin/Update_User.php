@@ -157,9 +157,9 @@ $groups = $stmt->fetchAll();
 <!-- ============================================================== -->
 <!-- Optional JavaScript -->
 <!-- jquery 3.3.1 -->
-<script src="assets/vendor/jquery/jquery-3.3.1.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- bootstap bundle js -->
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <!-- slimscroll js -->
 <script src="assets/vendor/slimscroll/jquery.slimscroll.js"></script>
 <!-- main js -->

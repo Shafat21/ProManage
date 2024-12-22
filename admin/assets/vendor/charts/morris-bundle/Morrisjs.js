@@ -162,13 +162,6 @@
             });
         }
 
-
-
-
-
-
-
-
     });
 
 })(window, document, window.jQuery);

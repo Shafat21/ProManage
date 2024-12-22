@@ -112,8 +112,7 @@ extract($row);
     <!-- ============================================================== -->
     <!-- Optional JavaScript -->
 
-    <script src="admin/assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
-    <script src="admin/assets/js/space.js"></script>
+    <script src="admin/https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

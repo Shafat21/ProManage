@@ -113,8 +113,8 @@ $result = $stmt->fetchAll();
     <?php include('include/footer.php'); ?>
 </div>
 <!-- Optional JavaScript -->
-<script src="assets/vendor/jquery/jquery-3.3.1.min.js"></script>
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/vendor/slimscroll/jquery.slimscroll.js"></script>
 <script src="assets/libs/js/main-js.js"></script>
 <script src="assets/vendor/charts/chartist-bundle/chartist.min.js"></script>

@@ -203,7 +203,7 @@ foreach ($rec as $key) {
 <!-- ============================================================== -->
 <!-- Optional JavaScript -->
 
-<script src="assets/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 <script src="assets/vendor/slimscroll/jquery.slimscroll.js"></script>
 <script src="assets/vendor/multi-select/js/jquery.multi-select.js"></script>
 <script src="assets/libs/js/main-js.js"></script>
