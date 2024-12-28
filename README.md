@@ -36,7 +36,7 @@ Promanage is a comprehensive **Employee Management System (EMS)** designed to st
 ![Profile Settings](https://i.postimg.cc/L6mDDF9p/image.png)
 
 ### Role Management
-![Role Management](https://i.postimg.cc/d0CGv5s6/image.png)
+[![ Role Management](https://i.postimg.cc/d0CGv5s6/image.png)](https://postimg.cc/068z0dJK)
 
 ### Salary Management
 ![Salary Management](https://i.postimg.cc/hPhzc2Mm/image.png)
